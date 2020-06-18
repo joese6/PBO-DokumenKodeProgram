@@ -1,0 +1,18 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_201\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\allclasses-frame.html = 1592477904860
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\allclasses-noframe.html = 1592477904874
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\argfile = 1592477901499
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\constant-values.html = 1592477904398
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\deprecated-list.html = 1592477904814
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\help-doc.html = 1592477904931
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\index-all.html = 1592477904761
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\index.html = 1592477904891
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\options = 1592477901497
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\overview-tree.html = 1592477904706
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\package-list = 1592477904275
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\script.js = 1592477904980
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\serialized-form.html = 1592477904459
+C:\Users\Mas Johan\Documents\NetBeansProjects\TugasPraktik4\target\site\apidocs\stylesheet.css = 1592418854898
