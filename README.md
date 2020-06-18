@@ -7,7 +7,8 @@ Setelah menyelesaikan tugas membuat dokumentasi fungsi, prosedur atau method pro
 - Merevisi dokumen sesuai perubahan kode program.
 
 # Screenshot
-
+![Skenario Pengujian Program-1](https://user-images.githubusercontent.com/41458819/85013881-83ecdf00-b18f-11ea-8aa6-fc6891df02dc.jpg)
+![Screenshot_296](https://user-images.githubusercontent.com/41458819/85013898-8a7b5680-b18f-11ea-86bd-0374ecc9d80c.png)
 
 # Build with :
 - [Netbeans](https://netbeans.org/)
